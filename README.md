@@ -25,7 +25,7 @@ This Python code simulates Bertrand's paradox, a classic problem in probability 
 - Three methods are implemented to simulate different approaches to selecting random chords:
   - Method 1: Randomly select one endpoint of the chord on the circle's circumference and test if it forms a chord longer than the triangle's side.
   - Method 2: On the radius joining the center of the circle and one of the triangle vertices, choose a point and draw a chord perpendicular to the radius passing through this point. Test if this chord is longer than the triangle's side.
-  - Method 3: Randomly select a point within a smaller concentric circle, representing chords that are completely contained within the circle. Test if these chords are longer than the triangle's side.
+  - Method 3: Randomly select a point in the circle. Test if this point lies inside the incircle of the equilateral triangle. 
 - Each method generates random points or chords and evaluates whether they satisfy the condition of being longer than the side of the inscribed equilateral triangle.
 - The results are plotted using `matplotlib`, with each method's simulation results displayed in separate subplots.
 - Green lines/points represent chords longer than the triangle's side, while red lines/points represent chords that are not.
