@@ -8,7 +8,7 @@ How to Run the Code:
 
 Prerequisites:
 
--Python 3 installed on your system.
+-Python 3 installed on your system. ...
 -Required Python packages: matplotlib, numpy.
 
 Running the Code:
