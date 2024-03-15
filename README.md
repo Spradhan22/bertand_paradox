@@ -44,3 +44,10 @@ This Python code simulates Bertrand's paradox, a classic problem in probability 
 ## Note:
 
 - Adjustments to parameters such as the number of iterations (`self.n`) or the radius of the circle (`self.r`) can be made within the code to modify the simulation behavior.
+## Team-members:
+
+- Apoorv Tandon (220192)
+- Daksh Kumar Singh (220322)
+- Himanshu Shekhar (220454)
+- Swayamsidh Pradhan (221117)
+- Tanishq Maheshwari (221128)
