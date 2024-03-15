@@ -13,7 +13,7 @@ Prerequisites:
 
 Running the Code:
 
--Save the provided Python code in a file, e.g., bertrand_simulation.py.
+-Save the provided Python code in a file, e.g., bertrand_simulation.py. <br>
 -Open your terminal.
 -Navigate to the directory where bertrand_simulation.py is saved.
 -Run the code using the command: python bertrand_simulation.py.
