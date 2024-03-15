@@ -8,7 +8,7 @@ This Python code simulates Bertrand's paradox, a classic problem in probability 
 
 ### Prerequisites:
 
-- Python 3 installed on your system.
+- `Python 3` installed on your system.
 - Required Python packages: `matplotlib`, `numpy`.
 
 ### Running the Code:
@@ -39,7 +39,7 @@ This Python code simulates Bertrand's paradox, a classic problem in probability 
 ## Interpreting the Results:
 
 - The simulation results demonstrate the different probabilities obtained through each method, highlighting Bertrand's paradox.
-- Users can observe how the probability of selecting a chord longer than the side of the equilateral triangle varies depending on the method of selection.
+- We can observe how the probability of selecting a chord longer than the side of the equilateral triangle varies depending on the method of selection.
 
 ## Note:
 
