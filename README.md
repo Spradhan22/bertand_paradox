@@ -8,7 +8,7 @@ This Python code simulates Bertrand's paradox, a classic problem in probability 
 
 ### Prerequisites:
 
-- `Python 3` installed on your system.
+- `Python 3` should be installed on your system.
 - Required Python packages: `matplotlib`, `numpy`.
 
 ### Running the Code:
